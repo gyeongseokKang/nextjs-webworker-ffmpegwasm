@@ -4,7 +4,9 @@ This project is a sample implementation of using FFmpeg with WebAssembly in a Ne
 
 ## Getting Started
 
-[Go Demo](https://nextjs-webworker-ffmpegwasm.vercel.app/)
+[Go Demo](https://nextjs-webworker-ffmpegwasm.vercel.app/)  
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/61446585/216258118-f8604d20-08d8-420b-b22f-34152292932c.png">
+
 
 ## Prerequisites
 
