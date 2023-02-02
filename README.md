@@ -31,10 +31,9 @@ yarn dev
 This will start a local development server and open the project in your default browser.
 
 ## Features
-
-1.  wav to mp3
-    1.1 convert without Web worker
-    1.2 convert with Web worker
+wav to mp3
+1. convert without Web worker
+1. convert with Web worker
 
 ## Contributing
 
