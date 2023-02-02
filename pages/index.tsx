@@ -89,7 +89,7 @@ export default function Home() {
           Convert without worker
         </button>
         <div>
-          if you click <strong>Convert without worker</strong>, stop timer
+          if you click <strong>Convert without worker</strong>, timer is stoped during converting process
         </div>
         <Timer />
         <ProgressBar progress={progress || 0} />
