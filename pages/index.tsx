@@ -72,7 +72,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <p></p>
+        <a href="https://github.com/gyeongseokKang/nextjs-webworker-ffmpegwasm">Go Github Repo</a>
         <input type="file" accept="audio/wav" onChange={handleFileChange} />
         <div>
           <strong>original wav file </strong>
